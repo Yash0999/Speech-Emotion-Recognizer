@@ -1,0 +1,18 @@
+# Core dependencies
+Flask==2.3.2
+Flask-Cors==3.0.10
+Werkzeug==2.3.7
+
+# Audio processing
+librosa==0.10.1
+soundfile==0.12.1
+audioread==3.0.0
+numpy==1.24.3
+scipy==1.11.2
+
+# Deep learning
+torch==2.0.1
+torchaudio==2.0.2
+
+# Optional: for logging (already in Python stdlib but some servers require)
+gunicorn==20.1.0
