@@ -3730,3 +3730,4 @@ label 166:
 2025-09-28 21:05:00,742 - __main__ - INFO - Starting Flask application
 2025-09-28 21:05:00,761 - werkzeug - WARNING -  * Debugger is active!
 2025-09-28 21:05:00,764 - werkzeug - INFO -  * Debugger PIN: 631-565-835
+2025-09-28 22:55:36,960 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\SER\\Speech-Emotion-Recognizer\\app.py', reloading
